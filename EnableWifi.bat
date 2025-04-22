@@ -1,4 +1,5 @@
 @echo off
+color a
 sc config LanmanWorkstation start= demand
 sc config WdiServiceHost start= demand
 sc config NcbService start= demand
