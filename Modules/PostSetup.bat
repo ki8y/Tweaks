@@ -130,13 +130,13 @@ goto :Browser
 cls
 mode con: cols=70 lines=12
 echo.
-echo                 ╭────────────────────────╮
-echo                 │   Choosing a Browser   │
-echo                 ╰────────────────────────╯
+echo                       ╭────────────────────────╮
+echo                       │   Choosing a Browser   │
+echo                       ╰────────────────────────╯
 echo.  
-echo       [1] Brave                      [4] Ungoogled Chromium
-echo       [2] Firefox                    [5] Google Chrome*
-echo       [3] Librewolf                  [6] Microsoft Edge*
+echo             [1] Brave                      [4] Ungoogled Chromium
+echo             [2] Firefox                    [5] Google Chrome*
+echo             [3] Librewolf                  [6] Microsoft Edge*
 echo.
 echo.
 echo   🛈 if unsure, select [1].
